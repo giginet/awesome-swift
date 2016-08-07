@@ -3868,6 +3868,11 @@
 			"category": "localization",
 			"description": "Localize your views directly in Interface Builder with IBLocalizable ",
 			"homepage": "https://github.com/PiXeL16/IBLocalizable"
+},{
+			"title": "CustomKeyboardTextField",
+			"category": "textfield",
+			"description": "Provides easy way to make type safety TextField with custom keyboards.",
+			"homepage": "https://github.com/giginet/CustomKeyboardTextField"
 	}
 ]
 }
